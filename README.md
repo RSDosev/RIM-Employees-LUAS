@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/RSDosev/RIM-Employees-LUAS">
-    <img src="https://ibb.co/YdVkcbt" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/3FPNpk0/Tram-01.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">RIM Employees LUAS</h3>
@@ -13,8 +13,7 @@
 </p>
 
 ## Demo
-
-[![Demo CountPages alpha](https://s1.gifyu.com/images/untitledaca98192d9660a4b.md.gif)]()
+<img src="demo.gif" alt="alt text" width="350" height="700">
 
 ## About the implementation
 
