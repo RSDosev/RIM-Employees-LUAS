@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_launch"
+    app:startDestination="@id/tramStopForecastFragment">
+
+    <fragment
+        android:id="@+id/tramStopForecastFragment"
+        android:name="com.rsdosev.rimemployeesluas.tramstopforecast.TramStopForecastFragment"
+        android:label="TramPostForecastFragment"
+        tools:layout="@layout/fragment_tram_stop_forecast" />
+
+</navigation>

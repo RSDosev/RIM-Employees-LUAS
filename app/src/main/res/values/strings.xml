@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RIM Employees LUAS</string>
+    <string name="empty_state_error_message">No service at the moment!</string>
+    <string name="no_network_error_message">No network connection!</string>
+</resources>
